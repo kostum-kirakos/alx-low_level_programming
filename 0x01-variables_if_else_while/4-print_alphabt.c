@@ -3,8 +3,9 @@
 #include <string.h>
 
 /**
-* main: Print the alphabet without q and e.
-* Return: 0
+* main - Print the alphabet without q and e.
+*
+* Return: Always 0 (Success)
 */
 int main(void)
 {
