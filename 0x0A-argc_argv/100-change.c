@@ -4,6 +4,8 @@
 
 /**
  * main - prints the minimum number of coins
+ * @argc: number of arguments
+ * @argv: array of arguments
  *
  * Return: 0 (Success), 1 (Error)
  */
